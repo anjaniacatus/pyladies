@@ -41,7 +41,7 @@ chapters:
     #   meetup_id: 10841992
 
     - name:      Antananarivo, MDG
-      website: tnr
+      website: tnr.pyladies.com
       image: pyladies_tnr.png
       email: tnr@pyladies.com
       twitter: PyladiesMDG
@@ -73,7 +73,7 @@ chapters:
 
     - name:      Australia
       website: http://australia.pyladies.com/
-      external_ website: true
+      external_website: true
       image: pyladies_australia.png
       email: australia@pyladies.com
       facebook: pyladiesau
@@ -604,6 +604,7 @@ chapters:
     - name:      Silicon Valley, CA
       meetup_id: 19180337
       website: http://siliconvalley.pyladies.com
+      external_website: true
       image: pyladies-silicion-logo.png
       email: siliconvalley@pyladies.com
       meetup: PyLadies-Silicon-Valley
