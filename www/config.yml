@@ -41,7 +41,8 @@ chapters:
     #   meetup_id: 10841992
 
     - name:      Antananarivo, MDG
-      website: tnr.pyladies.com
+      website: http://tnr.pyladies.com
+      external_website: true
       image: pyladies_tnr.png
       email: tnr@pyladies.com
       twitter: PyladiesMDG
